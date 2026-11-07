@@ -1,3 +1,5 @@
+**English** | [Русский](README.ru.md)
+
 # Active Directory & GLPI virtual lab
 This repository shows my hands-on experience with Active Directory and GLPI.
 
